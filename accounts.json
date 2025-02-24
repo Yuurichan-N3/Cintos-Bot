@@ -3,7 +3,7 @@
     "referrer_code": "0x8da3be0c",
     "referee_id": "6ef72208-9594-487d-a26b-97d843edbcd2",
     "points_awarded": 15,
-    "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJvdXN0bmVxc2FvbWJmbXRmZmZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzk3MzA0NTQsImV4cCI6MjA1NTMwNjQ1NH0.FeSHmHVeSQvQ2hVz0PHYBhFTijOY2U_U_zl4LIxFG_w",
-    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJvdXN0bmVxc2FvbWJmbXRmZmZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzk3MzA0NTQsImV4cCI6MjA1NTMwNjQ1NH0.FeSHmHVeSQvQ2hVz0PHYBhFTijOY2U_U_zl4LIxFG_w"
+    "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
   }
 ]
