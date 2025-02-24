@@ -105,3 +105,17 @@ API Key & Token: Pastikan token dan API key disimpan dengan aman. Jangan bagikan
 Rate Limit API: Periksa batasan API supaya tidak diblokir karena terlalu banyak request.
 
 Gunakan dengan Bijak: Skrip ini kuat, jadi pastikan kamu menggunakannya sesuai aturan platform.
+
+
+
+## 📜 Lisensi  
+
+Script ini didistribusikan untuk keperluan pembelajaran dan pengujian. Penggunaan di luar tanggung jawab pengembang.  
+
+Untuk update terbaru, bergabunglah di grup **Telegram**: [Klik di sini](https://t.me/sentineldiscus).
+
+
+---
+
+## 💡 Disclaimer
+Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
